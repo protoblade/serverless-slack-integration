@@ -1,0 +1,31 @@
+{
+  "name": "serverless-slack-integration",
+  "version": "0.0.2",
+  "engines": {
+    "node": ">=4.0"
+  },
+  "description": "Serverless plugin for slack notifications",
+  "author": "Proto",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/protoblade/serverless-slack-integration"
+  },
+  "keywords": [
+    "serverless plugin custom domain",
+    "custom domain",
+    "serverless plugins",
+    "api gateway",
+    "lambda",
+    "aws",
+    "aws lambda",
+    "amazon",
+    "amazon web services",
+    "serverless.com"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "current-git-branch": "^1.1.0"
+  }
+}
